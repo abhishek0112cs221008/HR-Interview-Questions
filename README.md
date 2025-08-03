@@ -20,7 +20,7 @@ As a fresher, I bring energy, dedication, and the hunger to grow. I’ve worked 
 
 *Strengths:* Quick learner, solid problem-solving mindset, and consistent self-discipline. I can break down problems logically and code solutions efficiently.
 
-*Weakness:* I sometimes overcommit while multitasking, but I’ve started prioritizing tasks and using to-do apps to stay organized.
+*Weakness:* I used to hesitate while asking for help, but I’ve realized that collaboration often leads to faster solutions.
 
 ---
 

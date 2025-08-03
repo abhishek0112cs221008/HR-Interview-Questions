@@ -6,7 +6,7 @@ This file contains personalized HR interview questions and answers, tailored for
 
 ## 1. Tell me something about yourself.
 
-I'm Abhishek Patel, a final-year Computer Science student at Bansal Institute of Science and Technology, Bhopal. I’ve developed strong skills in Java, SQL, and web development using JSP and Servlets. I’ve worked on real-world projects like a Library Management System and an Online Shopping platform. During my internship at Tech Saksham, I built a spam mail checker using NLP. I enjoy solving DSA problems and consistently explore new technologies. I’m currently focused on growing as a software developer and contributing to impactful, real-world applications.
+I'm Abhishek Patel, a final-year Computer Science student at Bansal Institute of Science and Technology, Bhopal. I’ve developed strong skills in Java, SQL, and web development using JSP and Servlets. I’ve worked on real-world projects like a Library Management System and an Online Shopping platform. I enjoy solving DSA problems and consistently explore new technologies. I’m currently focused on growing as a software developer and contributing to impactful, real-world applications.
 
 ---
 
